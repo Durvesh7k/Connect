@@ -28,13 +28,13 @@ Connect is an videocalling , allowing users to conduct video meetings with featu
 ## Screenshots
 
 ### Home Page
-![Home Page](https://github.com/Durvesh7k/Connect/assets/113430857/403af6c4-c3bb-46d0-99c1-980bc4508485)
+![Screenshot 2024-04-13 184602](https://github.com/Durvesh7k/Connect/assets/113430857/830e8e04-35d2-4c13-b012-9684e3a3f288)
 
 ### Video Chat
-![video_chat](https://github.com/Durvesh7k/Connect/assets/113430857/d2313ccf-da7d-4034-93ae-594e1e468f78)
+![Screenshot 2024-04-13 184705](https://github.com/Durvesh7k/Connect/assets/113430857/be4e6ee4-84aa-42ce-b7a2-ae6b152500ab)
 
 ### Authentication
-![Auth](https://github.com/Durvesh7k/Connect/assets/113430857/0ade6d9b-447a-40b3-889d-6f0e47af3e8e)
+![Screenshot 2024-04-13 184738](https://github.com/Durvesh7k/Connect/assets/113430857/d730cf67-1d06-47d9-93ac-ff99135314c4)
 
 ## Getting Started
 1. Clone the repository.
